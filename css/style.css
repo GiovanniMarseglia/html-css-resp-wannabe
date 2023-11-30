@@ -165,6 +165,19 @@ img {
         .why-us .col-left {
             width: 100%;
         }
+
+        .why-us {
+            background-color: #222222;
+            margin-bottom: 0px;
+        }
+
+        .steps{
+            margin: 3rem 0 0 0;
+        }
+
+        .why-us .container {
+            padding-top: 3rem;
+        }
  }
 
 
